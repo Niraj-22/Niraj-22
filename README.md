@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently looking for a platform to showcase my skills.<br>I'm currently learning NEXT JS.<br>I'm CSE grad.<br>I love chess.<br>I have decent amount of expertise in MERN stack and Machine Learning<br>
+I'm currently looking for a platform to showcase my skills.<br>I'm currently learning NEXT JS.<br>I'm CSE undergrad.<br>I love chess.<br>I have decent amount of expertise in MERN stack and Machine Learning<br>
 
 
 ## 🌐 Socials:
