@@ -11,12 +11,12 @@
 ---
 
 ### 🌟 About Me
-- 🔭 Currently working as **Frontend Developer at DViO Digital**
-- 🌱 Expanding skills in **Vue.js, React Router v7, Remix**
+- 🔭 Currently working as **Software Developer at DViO Digital**
+- 🌱 Expanding skills in **React.JS, FastAPI, Python, React Router v7, Tailwind**
 - 👯 Open to collaborating on **innovative full-stack projects**
 - 🤝 Looking for guidance on **React Router v7 best practices**
 - 👨‍💻 Check out my portfolio: [niraj-chordia.vercel.app](https://niraj-chordia.vercel.app/)
-- 💬 Ask me about **React, Vue, and modern frontend development**
+- 💬 Ask me about **React, Node, and modern software development**
 - 📄 View my resume: [Google Drive](https://drive.google.com/file/d/1rXGcX8W9gTEZ8bqcjYChF-B5XbRP2gq2/view?usp=sharing)
 - 📫 Reach me at: **9422571198**
 
@@ -36,7 +36,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vue,tailwind,bootstrap,nodejs,express,java,python,flask,mysql,postgres,mongodb,redis,docker,git,aws,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,zustand,tanstack,vue,tailwind,bootstrap,nodejs,express,java,python,flask,fastapi,mysql,postgres,mongodb,redis,docker,git,aws,figma" />
   <br />
   <img src="https://skillicons.dev/icons?i=linux,pandas,sklearn,tensorflow,chartjs,seaborn,postman" />
 </p>
